@@ -1,0 +1,23 @@
+
+campana_id,nombre,fecha_envio,segmento,canal,oferta,clientes_objetivo,tasa_apertura,tasa_conversion,ventas_atribuidas,estado
+
+1,Vuelve a Kiriko,2026-04-20,en_riesgo,whatsapp,10% de descuento en pollo a la brasa,40,0.62,0.18,286.50,activa
+
+2,Combo Familiar Weekend,2026-04-21,activo,whatsapp,Combo Familiar Brasa a precio especial,60,0.55,0.12,719.40,activa
+
+3,Bienvenida Nuevos Clientes,2026-04-22,nuevo,bot,Bebida gratis en primer pedido,25,0.68,0.20,129.50,activa
+
+4,Parrilla para Compartir,2026-04-23,activo,instagram,15% en Parrilla Familiar,35,0.49,0.11,560.70,pausada
+
+5,Recuperacion Clientes Dormidos,2026-04-24,en_riesgo,whatsapp,Delivery gratis por compras mayores a S/50,50,0.58,0.16,391.20,activa
+
+6,Almuerzo Ejecutivo,2026-04-25,activo,whatsapp,Chaufa Brasa + bebida a S/35,45,0.51,0.14,220.50,activa
+
+7,Cumpleaños Kiriko,2026-04-26,activo,bot,Postre o bebida gratis por cumpleaños,18,0.72,0.22,154.00,activa
+
+8,Promo Noche Brasa,2026-04-26,en_riesgo,whatsapp,10% en pedidos después de las 8pm,38,0.60,0.17,258.30,activa
+
+9,Ensaladas Light,2026-04-27,nuevo,instagram,2x1 en ensaladas seleccionadas,30,0.44,0.09,140.40,programada
+
+10,Parrilla Familiar Domingo,2026-04-28,activo,whatsapp,Parrilla Familiar + bebida 1.5L,55,0.57,0.15,934.45,programada
+

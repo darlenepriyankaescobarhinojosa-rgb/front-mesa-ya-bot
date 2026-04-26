@@ -1,0 +1,33 @@
+
+reclamo_id,cliente,telefono,fecha,hora,tipo,descripcion,estado,canal,prioridad,responsable
+
+1,Carlos Perez,999111222,2026-04-26,13:45,demora,El pedido tardó más de 45 minutos,resuelto,bot,media,Atención
+
+2,María Lopez,999222333,2026-04-26,14:50,calidad,El pollo llegó frío,pendiente,whatsapp,alta,Cocina
+
+3,Luis Torres,999333444,2026-04-26,20:30,atencion,No recibió respuesta rápida por WhatsApp,en_revision,whatsapp,media,Atención
+
+4,Ana Ruiz,999444555,2026-04-26,21:10,pedido_incorrecto,Recibió papas en vez de ensalada,pendiente,bot,alta,Cocina
+
+5,Jose Mendoza,999555666,2026-04-26,21:40,delivery,El repartidor llegó tarde,resuelto,telefono,media,Delivery
+
+6,Sofia Vega,999666777,2026-04-26,22:05,reserva,Su mesa no estaba lista a la hora reservada,pendiente,instagram,alta,Salón
+
+7,Diego Ramos,999777888,2026-04-27,13:20,demora,Demora en atención en salón,resuelto,bot,baja,Salón
+
+8,Lucia Castro,999888999,2026-04-27,14:15,calidad,La ensalada llegó incompleta,en_revision,whatsapp,media,Cocina
+
+9,Pedro Diaz,999999000,2026-04-27,20:50,pedido_incorrecto,Pedido llegó con una bebida distinta,pendiente,bot,media,Atención
+
+10,Valeria Soto,999000111,2026-04-27,21:25,delivery,Pedido llegó sin cubiertos,resuelto,whatsapp,baja,Delivery
+
+11,Fernando Salas,988111222,2026-04-28,13:40,atencion,Mesero demoró en tomar la orden,en_revision,telefono,media,Salón
+
+12,Camila Rojas,988222333,2026-04-28,19:55,demora,El pedido demoró más de lo prometido,pendiente,bot,alta,Cocina
+
+13,Andres Molina,988333444,2026-04-28,20:20,calidad,Las papas llegaron frías,pendiente,instagram,media,Cocina
+
+14,Paula Herrera,988444555,2026-04-28,21:05,reserva,No encontraron su reserva al llegar,resuelto,telefono,alta,Salón
+
+15,Ricardo Vega,988555666,2026-04-28,21:35,delivery,El pedido llegó incompleto,en_revision,whatsapp,alta,Delivery
+
