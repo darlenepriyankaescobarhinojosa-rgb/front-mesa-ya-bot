@@ -1,0 +1,33 @@
+
+reserva_id,cliente,telefono,fecha,hora,personas,estado,canal,zona,comentario
+
+1,Carlos Perez,999111222,2026-04-26,13:00,2,confirmada,bot,salon,Mesa interior
+
+2,María Lopez,999222333,2026-04-26,14:30,4,confirmada,whatsapp,terraza,Almuerzo familiar
+
+3,Luis Torres,999333444,2026-04-26,20:00,3,pendiente,bot,salon,Pedir confirmación
+
+4,Ana Ruiz,999444555,2026-04-26,20:30,6,confirmada,telefono,terraza,Cumpleaños
+
+5,Jose Mendoza,999555666,2026-04-26,21:00,2,cancelada,instagram,salon,Canceló por demora
+
+6,Sofia Vega,999666777,2026-04-26,21:30,5,confirmada,bot,salon,Cerca a ventana
+
+7,Diego Ramos,999777888,2026-04-27,12:30,3,confirmada,whatsapp,salon,Almuerzo de trabajo
+
+8,Lucia Castro,999888999,2026-04-27,14:00,2,confirmada,bot,terraza,Mesa tranquila
+
+9,Pedro Diaz,999999000,2026-04-27,20:30,6,pendiente,instagram,salon,Confirmar asistencia
+
+10,Valeria Soto,999000111,2026-04-27,21:00,4,confirmada,telefono,terraza,Cena familiar
+
+11,Fernando Salas,988111222,2026-04-28,13:30,5,confirmada,bot,salon,Almuerzo familiar
+
+12,Camila Rojas,988222333,2026-04-28,19:30,2,pendiente,whatsapp,terraza,Cliente pidió mesa exterior
+
+13,Andres Molina,988333444,2026-04-28,20:00,4,confirmada,instagram,salon,Cena con amigos
+
+14,Paula Herrera,988444555,2026-04-28,20:45,8,confirmada,telefono,salon,Cumpleaños
+
+15,Ricardo Vega,988555666,2026-04-28,21:15,3,cancelada,bot,terraza,Canceló por cambio de planes
+

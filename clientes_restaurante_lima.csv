@@ -1,0 +1,203 @@
+
+cliente_id,nombre,telefono,fecha_ultima_visita,frecuencia_mensual,ticket_promedio,estado,plato_favorito
+
+1,Ana Torres,999100001,2026-04-24,4,42.50,activo,Pollo a la brasa
+
+2,Carlos Medina,999100002,2026-03-08,1,31.00,en_riesgo,Chaufa Brasa
+
+3,Lucia Rojas,999100003,2026-04-25,3,55.90,activo,Parrilla Clásica
+
+4,Marco Vega,999100004,2026-04-01,1,28.50,en_riesgo,1/4 Pollo
+
+5,Sofia Salazar,999100005,2026-04-23,2,35.00,activo,Pollo Saltado
+
+6,Diego Ramos,999100006,2026-04-26,1,26.00,nuevo,César con Pollo
+
+7,Camila Herrera,999100007,2026-04-20,5,62.00,activo,Lomo Saltado Montado
+
+8,Jorge Castillo,999100008,2026-02-27,1,30.00,en_riesgo,Tallarín Saltado
+
+9,Valeria Soto,999100009,2026-04-18,3,48.90,activo,1/2 Pollo
+
+10,Fernando Salas,999100010,2026-04-26,1,32.00,nuevo,Chaufa Brasa
+
+11,Mariana Flores,999100011,2026-04-21,4,39.50,activo,Pollo a la brasa
+
+12,Ricardo Vega,999100012,2026-03-15,1,33.00,en_riesgo,Pollo Saltado
+
+13,Andrea Lopez,999100013,2026-04-19,3,46.00,activo,Parrilla Peruana
+
+14,Pedro Diaz,999100014,2026-04-10,2,29.90,activo,1/4 Pollo
+
+15,Paula Herrera,999100015,2026-02-20,1,27.00,en_riesgo,Ensalada Kiriko
+
+16,Andres Molina,999100016,2026-04-26,1,25.90,nuevo,1/4 Pollo
+
+17,Daniela Paredes,999100017,2026-04-22,4,52.00,activo,Lomo Saltado Montado
+
+18,Gabriel Torres,999100018,2026-03-01,1,34.00,en_riesgo,Chaufa Brasa
+
+19,Renata Silva,999100019,2026-04-24,5,58.00,activo,Parrilla Clásica
+
+20,Alonso Ruiz,999100020,2026-04-26,1,30.00,nuevo,Pollo Saltado
+
+21,Claudia Mendoza,999100021,2026-04-17,3,44.00,activo,1/2 Pollo
+
+22,Oscar Navarro,999100022,2026-02-15,1,28.00,en_riesgo,1/4 Pollo
+
+23,Fiorella Castro,999100023,2026-04-16,2,37.50,activo,Al Pesto
+
+24,Hugo Fernandez,999100024,2026-04-26,1,32.00,nuevo,Chaufa Brasa
+
+25,Patricia Leon,999100025,2026-04-09,2,41.00,activo,Pollo a la brasa
+
+26,Miguel Rivas,999100026,2026-03-18,1,29.00,en_riesgo,Tallarín Saltado
+
+27,Elena Vargas,999100027,2026-04-25,4,63.00,activo,Parrilla Familiar
+
+28,Sebastian Cruz,999100028,2026-04-26,1,26.00,nuevo,Ensalada Florentina
+
+29,Natalia Campos,999100029,2026-04-13,3,49.00,activo,Lomo Saltado Montado
+
+30,Bruno Ibarra,999100030,2026-02-25,1,31.50,en_riesgo,Chaufa Brasa
+
+31,Rosa Aguilar,999100031,2026-04-12,2,36.00,activo,Pollo Saltado
+
+32,Victor Ponce,999100032,2026-04-26,1,25.90,nuevo,1/4 Pollo
+
+33,Jimena Morales,999100033,2026-04-24,5,70.00,activo,Parrilla Familiar
+
+34,Cristian Espinoza,999100034,2026-03-05,1,27.00,en_riesgo,Ensalada Kiriko
+
+35,Alejandra Torres,999100035,2026-04-21,3,43.00,activo,1/2 Pollo
+
+36,Rodrigo Salas,999100036,2026-04-26,1,32.00,nuevo,Chaufa Brasa
+
+37,Milagros Peña,999100037,2026-04-11,2,39.00,activo,Al Pesto
+
+38,Enrique Delgado,999100038,2026-02-10,1,30.00,en_riesgo,Pollo Saltado
+
+39,Gabriela Arias,999100039,2026-04-18,4,56.00,activo,Parrilla Peruana
+
+40,Juan Pablo Soto,999100040,2026-04-26,1,35.00,nuevo,Asado con Puré
+
+41,Carolina Reyes,999100041,2026-04-22,3,45.00,activo,Pollo a la brasa
+
+42,Matias Carrillo,999100042,2026-03-12,1,28.90,en_riesgo,1/4 Pollo
+
+43,Luciana Vidal,999100043,2026-04-23,5,61.00,activo,Lomo Saltado Montado
+
+44,Fabian Gutierrez,999100044,2026-04-26,1,30.00,nuevo,Tallarín Saltado
+
+45,Monica Valdez,999100045,2026-04-08,2,38.00,activo,Chaufa Brasa
+
+46,Rafael Meza,999100046,2026-02-28,1,26.00,en_riesgo,César con Pollo
+
+47,Karla Sanchez,999100047,2026-04-25,4,54.00,activo,Parrilla Clásica
+
+48,Ivan Calderon,999100048,2026-04-26,1,32.00,nuevo,Pollo Saltado
+
+49,Isabel Romero,999100049,2026-04-15,3,47.00,activo,1/2 Pollo
+
+50,Nicolas Prado,999100050,2026-03-20,1,29.50,en_riesgo,Al Pesto
+
+51,Teresa Campos,999100051,2026-04-19,2,40.00,activo,Pollo a la brasa
+
+52,Emilio Serrano,999100052,2026-04-26,1,25.90,nuevo,1/4 Pollo
+
+53,Adriana Luna,999100053,2026-04-23,5,68.00,activo,Parrilla Familiar
+
+54,Manuel Ortega,999100054,2026-02-18,1,31.00,en_riesgo,Chaufa Brasa
+
+55,Daniela Nuñez,999100055,2026-04-14,3,46.50,activo,Lomo Saltado Montado
+
+56,Pablo Herrera,999100056,2026-04-26,1,35.00,nuevo,Asado con Puré
+
+57,Silvia Rojas,999100057,2026-04-20,4,53.00,activo,Parrilla Peruana
+
+58,Felipe Aguirre,999100058,2026-03-02,1,28.00,en_riesgo,Pollo Saltado
+
+59,Angela Cortez,999100059,2026-04-17,2,37.00,activo,Ensalada Florentina
+
+60,Raul Benavides,999100060,2026-04-26,1,32.00,nuevo,Chaufa Brasa
+
+61,Romina Caceres,999100061,2026-04-24,3,49.90,activo,1/2 Pollo
+
+62,Esteban Maldonado,999100062,2026-02-22,1,30.00,en_riesgo,Tallarín Saltado
+
+63,Marcela Pino,999100063,2026-04-16,4,51.00,activo,Lomo Saltado Montado
+
+64,Santiago Vega,999100064,2026-04-26,1,27.00,nuevo,Ensalada Kiriko
+
+65,Veronica Lozano,999100065,2026-04-12,2,42.00,activo,Pollo a la brasa
+
+66,Julio Cardenas,999100066,2026-03-10,1,29.00,en_riesgo,1/4 Pollo
+
+67,Mayra Chavez,999100067,2026-04-21,5,59.00,activo,Parrilla Clásica
+
+68,Cesar Palacios,999100068,2026-04-26,1,30.00,nuevo,Pollo Saltado
+
+69,Florencia Miro,999100069,2026-04-18,3,48.00,activo,Chaufa Brasa
+
+70,Roberto Figueroa,999100070,2026-02-12,1,33.00,en_riesgo,Asado con Puré
+
+71,Antonella Bravo,999100071,2026-04-22,4,55.00,activo,Parrilla Peruana
+
+72,Kevin Bustamante,999100072,2026-04-26,1,25.90,nuevo,1/4 Pollo
+
+73,Clara Valdivia,999100073,2026-04-10,2,39.00,activo,Al Pesto
+
+74,Martin Cueva,999100074,2026-03-25,1,28.00,en_riesgo,César con Pollo
+
+75,Rebeca Soto,999100075,2026-04-25,5,72.00,activo,Parrilla Familiar
+
+76,Gonzalo Peña,999100076,2026-04-26,1,32.00,nuevo,Chaufa Brasa
+
+77,Laura Espinoza,999100077,2026-04-13,3,45.00,activo,Pollo a la brasa
+
+78,Ignacio Robles,999100078,2026-02-26,1,27.00,en_riesgo,Ensalada Florentina
+
+79,Beatriz Hidalgo,999100079,2026-04-19,4,57.00,activo,Parrilla Clásica
+
+80,Franco Zamora,999100080,2026-04-26,1,35.00,nuevo,Asado con Puré
+
+81,Maria Fernanda Leon,999100081,2026-04-24,3,46.00,activo,1/2 Pollo
+
+82,Arturo Villanueva,999100082,2026-03-14,1,30.00,en_riesgo,Pollo Saltado
+
+83,Noelia Fuentes,999100083,2026-04-11,2,41.00,activo,Chaufa Brasa
+
+84,Tomas Landa,999100084,2026-04-26,1,29.00,nuevo,Tallarín Saltado
+
+85,Vanessa Paredes,999100085,2026-04-17,4,52.00,activo,Lomo Saltado Montado
+
+86,Renzo Cabrera,999100086,2026-02-19,1,31.00,en_riesgo,1/4 Pollo
+
+87,Priscila Mora,999100087,2026-04-20,3,44.00,activo,Pollo a la brasa
+
+88,Alan Quintana,999100088,2026-04-26,1,32.00,nuevo,Chaufa Brasa
+
+89,Grecia Salinas,999100089,2026-04-23,5,64.00,activo,Parrilla Familiar
+
+90,Brayan Renteria,999100090,2026-03-06,1,28.50,en_riesgo,Ensalada Kiriko
+
+91,Daniela Salazar,999100091,2026-04-15,2,38.00,activo,Pollo Saltado
+
+92,Erick Morales,999100092,2026-04-26,1,26.00,nuevo,César con Pollo
+
+93,Micaela Vargas,999100093,2026-04-18,3,47.00,activo,Chaufa Brasa
+
+94,Jose Luis Acosta,999100094,2026-02-24,1,29.00,en_riesgo,Tallarín Saltado
+
+95,Kiara Rios,999100095,2026-04-21,4,56.50,activo,Parrilla Peruana
+
+96,Samuel Cordova,999100096,2026-04-26,1,25.90,nuevo,1/4 Pollo
+
+97,Elisa Bustos,999100097,2026-04-12,2,40.00,activo,Al Pesto
+
+98,Maximiliano Gil,999100098,2026-03-11,1,30.00,en_riesgo,Chaufa Brasa
+
+99,Tamara Quiroz,999100099,2026-04-25,5,66.00,activo,Parrilla Familiar
+
+100,Alberto Rojas,999100100,2026-04-26,1,32.00,nuevo,Pollo Saltado
+

@@ -1,0 +1,53 @@
+
+producto_id,categoria,plato,descripcion,precio,margen_estimado,tiempo_preparacion_min,para_compartir,popularidad
+
+1,Pollos a la brasa,1/4 Pollo,Un cuarto de pollo a la brasa con papas fritas y ensalada,25.90,0.45,18,no,alta
+
+2,Pollos a la brasa,1/2 Pollo,Medio pollo a la brasa con papas fritas y ensalada,48.90,0.43,22,si,alta
+
+3,Pollos a la brasa,Pollo Entero,Pollo entero a la brasa con papas fritas y ensalada,84.90,0.42,30,si,alta
+
+4,Pollos a la brasa,Combo Familiar Brasa,Pollo entero con papas familiares ensalada y bebida de 1.5L,99.90,0.44,32,si,alta
+
+5,Especialidades,Lomo Saltado Montado,Lomo saltado con papas fritas arroz y huevo montado,50.00,0.38,25,no,alta
+
+6,Especialidades,Pollo Saltado,Pollo saltado con papas fritas y arroz,30.00,0.46,22,no,media
+
+7,Especialidades,Chaufa Brasa,Arroz chaufa con trozos de pollo a la brasa,32.00,0.50,20,no,alta
+
+8,Especialidades,Tallarín Saltado,Tallarín saltado criollo con pollo o carne,30.00,0.44,22,no,media
+
+9,Especialidades,Al Pesto,Tallarines verdes con pollo a la brasa,30.00,0.47,20,no,media
+
+10,Especialidades,Asado con Puré,Asado tradicional con puré de papa y arroz,35.00,0.40,25,no,media
+
+11,Especialidades,Bisteck Champiñones,Bisteck en salsa de champiñones con papas fritas,32.00,0.39,25,no,media
+
+12,Parrillas,Parrilla Personal,Parrilla personal con carnes papas y ensalada,62.00,0.36,30,no,media
+
+13,Parrillas,Parrilla Peruana,Parrilla con cortes variados acompañada de papas y ensalada,89.90,0.37,35,si,alta
+
+14,Parrillas,Parrilla Clásica,Parrilla clásica para compartir con papas y ensalada,94.90,0.38,35,si,alta
+
+15,Parrillas,Parrilla Familiar,Parrilla grande para compartir en familia,169.90,0.35,45,si,alta
+
+16,Ensaladas,Ensalada Florentina,Ensalada fresca con pollo y verduras,26.00,0.55,12,no,media
+
+17,Ensaladas,Ensalada Kiriko,Ensalada especial de la casa con pollo,27.00,0.54,12,no,media
+
+18,Ensaladas,César con Pollo,Ensalada César con pollo a la brasa,26.00,0.53,12,no,media
+
+19,Bebidas,Chicha Morada,Vaso de chicha morada natural,7.00,0.65,2,no,alta
+
+20,Bebidas,Inca Kola,Inca Kola personal,7.00,0.60,1,no,alta
+
+21,Bebidas,Limonada,Limonada natural,8.00,0.62,4,no,media
+
+22,Bebidas,Pisco Sour,Pisco Sour clásico,22.00,0.58,6,no,media
+
+23,Complementos,Papas Familiares,Porción familiar de papas fritas,18.00,0.57,8,si,alta
+
+24,Complementos,Ensalada Familiar,Porción familiar de ensalada fresca,16.00,0.60,6,si,media
+
+25,Complementos,Ají Extra,Porción adicional de ají de la casa,3.00,0.75,1,no,media
+
